@@ -1,0 +1,21 @@
+2025-04-30 14:31:46,899 - ERROR - ERROR: Process 39547 (scheduled task 051) took 689.0 seconds to complete
+2025-04-30 14:31:46,899 - ERROR - ERROR: Process 45135 (scheduled task 515) took 743.0 seconds to complete
+2025-04-30 14:31:46,899 - WARNING - WARNING: Process 71766 (scheduled task 074) took 347.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 81258 (background job wmy) took 886.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 87228 (scheduled task 268) took 568.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 50295 (scheduled task 811) took 395.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 27222 (scheduled task 294) took 368.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 87570 (scheduled task 794) took 473.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 99672 (background job sqm) took 313.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 86716 (background job xfg) took 334.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 22003 (scheduled task 004) took 673.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 85742 (scheduled task 064) took 737.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 98746 (scheduled task 746) took 437.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 39860 (scheduled task 460) took 1192.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 52532 (background job tqc) took 833.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 62401 (scheduled task 936) took 624.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 23703 (scheduled task 374) took 806.0 seconds to complete
+2025-04-30 14:31:46,900 - ERROR - ERROR: Process 70808 (scheduled task 182) took 2023.0 seconds to complete
+2025-04-30 14:31:46,900 - WARNING - WARNING: Process 24482 (scheduled task 672) took 516.0 seconds to complete
+2025-04-30 14:31:46,900 - INFO - Processed 43 jobs: 9 warnings, 10 errors
+2025-04-30 14:31:46,900 - WARNING - WARNING: 2 processes started but never ended
